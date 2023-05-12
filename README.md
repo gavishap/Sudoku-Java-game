@@ -1,3 +1,8 @@
+![image](https://github.com/gavishap/Sudoku-Java-game/assets/71888304/94d2f553-f5ab-4f24-a169-be6b0bc1cf3e)
+
+
+
+
 # Sudoku Game
 
 This is a simple Sudoku game built with Java Swing. It provides a graphical user interface to play a game of Sudoku. You can manually set the board and try to solve it yourself or use it to create your own puzzles.
