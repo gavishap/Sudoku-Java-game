@@ -1,7 +1,9 @@
 #Sudoku Game
+
 This is a simple Sudoku game built with Java Swing. It provides a graphical user interface to play a game of Sudoku. You can manually set the board and try to solve it yourself or use it to create your own puzzles.
 
 Features
+
 9x9 Sudoku grid.
 Set your own puzzles on the board.
 Clear the entire board at once.
